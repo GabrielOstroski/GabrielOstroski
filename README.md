@@ -2,7 +2,7 @@
 - 🐍 Hoje tenho Python como foco de aprendizado   
 - 👾 Estudo Desenvolvimento de games
 - ⚡ Aprendendo escultura 3D no Blender
-- 💻 Cursando Desenvolvimento de sofaware
+- 💻 Cursando Engenharia de software
 #
 
 <div aling= center style="margin-bottom:100px">
@@ -10,7 +10,7 @@
   <img width=40%  aling=center src= "https://github-readme-stats-five-iota-48.vercel.app//api/top-langs/?username=GabrielOstroski&show_icons=true&theme=onedark" />
 </div>
 
-<div aling=center style="margin-bottom:500px"><br>
+<div aling=center style="margin-bottom:100px"><br>
   <img aling=center width=10% height=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img aling=center width=10% height=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
   <img aling=center width=10% height=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
